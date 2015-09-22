@@ -1,5 +1,13 @@
-DoSOCS
+DoSOCS1.0
 ======
+
+IMPORTANT
+---------------
+<div>
+  <p>
+  DoSOCS1.0 is no longer actively maintained. <a href="https://github.com/DoSOCSv2">Please visit DoSOCS2.0 for the most current version</a>.
+  </p>
+</div>
 
 System Overview
 ---------------
